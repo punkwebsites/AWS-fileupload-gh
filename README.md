@@ -107,7 +107,7 @@ Gifs From > https://giphy.com/ericaofanderson
 > Erica Anderson @ericaofanderson
 
 # vpc
-vpc process
+The whole pipeline begins with a vpc environment. VPC stands for virtual private cloud. 
 
 # s3
 s3 process
