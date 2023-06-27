@@ -34,8 +34,13 @@ TBD
 - [build](#build)
 - [webresources](#webresources)
 - [credits](#credits)
+
+---
+  AWS Services:
+- [vpc](#vpc)
+- [s3](#s3)
   
-  ---
+---
   Front end structure:
 - [public](#public)
 - [src](#src)
@@ -81,6 +86,11 @@ Special alias/script I wrote to speed up git and deploy cycle. Great for 1 devel
 Gifs From > https://giphy.com/ericaofanderson
 > Erica Anderson @ericaofanderson
 
+# vpc
+vpc process
+
+# s3
+s3 process
 
 # src
 Standard entry point of application. Main function invoked here
