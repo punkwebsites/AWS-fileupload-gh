@@ -39,6 +39,13 @@ TBD
   AWS Services:
 - [vpc](#vpc)
 - [s3](#s3)
+- [lambda](#lambda)
+- [rds](#rds)
+	- [mysql](#mysql)
+- [glue](#glue)
+- [amplify](#amplify)
+- [sqs](#sqs)
+- [sns](#sns)
   
 ---
   Front end structure:
@@ -91,6 +98,30 @@ vpc process
 
 # s3
 s3 process
+
+# lambda
+ process
+
+# rds
+ process
+
+## mysql
+process
+
+# glue
+process
+
+# glue
+process
+
+# amplify
+process
+
+# sqs
+process
+
+# sns
+process
 
 # src
 Standard entry point of application. Main function invoked here
